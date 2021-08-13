@@ -1,0 +1,41 @@
+:root {
+  --font-heading: "";
+}
+h1 {
+  color: #265364;
+  font-family: "Quicksand", sans-serif;
+  font-size: 72.08px;
+}
+h2 {
+  color: #397c96;
+  font-family: "Quicksand", sans-serif;
+  font-size: 34.03px;
+}
+h3{
+  color: #397c96;
+  font-family: "Quicksand", sans-serif;
+  font-size: 27.52px;
+
+}
+body {
+  color: #19191b;
+  font-family: "Roboto+Condensed", sans-serif;
+}
+strong{
+  color:#18a6df;
+}
+p {
+    font-size: 18px;
+    line-height: 1.618; /* interligne */
+  }
+  /*  section "A propos de moi"
+  -----------------------------------------*/
+  #about {
+    background: #18a6df;
+    color: white;
+  }
+  .profile-img {
+    float: left;
+    margin-left: 20px;
+    width: 300px;
+  }
